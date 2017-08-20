@@ -9,7 +9,7 @@
 
                 <div class="panel-body">
                     You are logged in!<pre>
-                    @php $results = DB::select('select * from goods where id = ?', [3]);print_r ($results);@endphp
+                    @php $results = DB::select('select * from goods where id = ?', [1]);print_r ($results);@endphp
                 </div>
             </div>
         </div>

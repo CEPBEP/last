@@ -26,7 +26,7 @@
                     <a href="https://paymon.ru/faq-rus.html">Documentation</a>
                     <a href="https://paymon.ru/faq-rus.html">Screenshots</a>
                     <a href="https://paymon.ru/faq-rus.html">News</a>
-                    <a href="https://paymon.ru/faq-rus.html">People</a>
+                    <a href="admin">Admin</a>
                     <a href="https://paymon.ru/faq-rus.html">f.a.q</a>
                 </div>
             </div>

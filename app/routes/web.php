@@ -14,6 +14,12 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('edit', function () {
+    return view('editor');
+});
+Route::post('/form', function () {
+    return view('editor');
+});
 
 Auth::routes();
 
