@@ -18,15 +18,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                $_[d{{ config('app.name', 'Laravel') }}]
+                {{ config('app.name', 'Laravel') }}
+                
                 </div>
-               
+               <img style="width:250px" src="https://cdn.dribbble.com/users/10549/screenshots/3062682/build.png">
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://paymon.ru/faq-rus.html">Documentation</a>
+                    <a href="https://paymon.ru/faq-rus.html">Screenshots</a>
+                    <a href="https://paymon.ru/faq-rus.html">News</a>
+                    <a href="https://paymon.ru/faq-rus.html">People</a>
+                    <a href="https://paymon.ru/faq-rus.html">f.a.q</a>
                 </div>
             </div>
         </div>

@@ -39,13 +39,26 @@ html, body {
 }
 
 .links > a {
-    color: #636b6f;
-    padding: 0 25px;
+    background: cornflowerblue;
+    color: #fff;
+    padding: 2px 25px;
     font-size: 12px;
     font-weight: 600;
     letter-spacing: .1rem;
     text-decoration: none;
     text-transform: uppercase;
+    border-radius:3px;
+}
+.links > a:hover {
+    background: #FFFFFF;
+    color: cornflowerblue;
+    padding: 2px 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius:3px;
 }
 ::-webkit-scrollbar{width:1px;}
 .m-b-md {
